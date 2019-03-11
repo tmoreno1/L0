@@ -1,0 +1,21 @@
+git
+git clone https://github.com//IIC2115/Syllabus
+pwd
+ls
+cd Desktop
+git clone https://github.com/tmoreno1/L0
+git add L0
+cd L0
+git add prueba
+git add prueba.txt
+git commit "esta exzs la prueba"
+git commit 'este ezs la prueba'
+git commit holaaaa
+git commit -m "esate es el menassaje"
+git config --global tmoreno1@uc.cl
+git config --global user.email tmoreno1@uc.cl
+git config --global user.name tmoreno1
+git commit -m "esate es el menassaje"
+git push
+git pull
+doskey /History
